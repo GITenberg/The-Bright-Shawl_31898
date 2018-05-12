@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2218
     wikipedia: http://en.wikipedia.org/wiki/Joseph_Hergesheimer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31898#The-Bright-Shawl
 gutenberg_issued: '2010-04-06'
 gutenberg_type: Text
 identifiers:
